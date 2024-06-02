@@ -1,0 +1,4 @@
+tensorflow==2.12.0
+tflearn
+nltk==3.8.1
+streamlit==1.34.0
